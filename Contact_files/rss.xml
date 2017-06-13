@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Contact</title>
+    <link>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Contact.html</link>
+    <description>Marianne BEREAU
+Chemin de la Grangette 17
+1010 LAUSANNE
+Tél. : 021/653 26 07
+Portable : 076/327 55 15
+marianne.bereau@gmail.com
+
+Atelier-Galerie
+Grand-Rue 5
+1162 Saint-Prex</description>
+    <item>
+      <link>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Contact.html#0</link>
+      <guid isPermaLink="false">e1d5be98-5f54-4081-b17e-5d2523bf80ac</guid>
+      <enclosure url="file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Contact_files/Media/IMG_0019/IMG_0019.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Contact_files/Media/IMG_0019/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Contact_files/Media/IMG_0019/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Mes photos</title>
+    <link>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos.html</link>
+    <description>J’ai profité de la présence de mes deux fils, Tristan 22 ans qui vit aux Etats-Unis et Quentin 20 ans qui vit au Canada pour installer le maximum de choses.
+Les choses se passent bien et tout ça commence à prendre forme.</description>
+    <item>
+      <link>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos.html#0</link>
+      <guid isPermaLink="false">c6991bfc-5e71-4a92-9016-e7c3630e5bfc</guid>
+      <enclosure url="file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_0040/IMG_0040.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_0040/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_0040/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos.html#1</link>
+      <guid isPermaLink="false">868d6bc4-d86c-47d1-b042-492e24ee42b8</guid>
+      <enclosure url="file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_0038/IMG_0038.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_0038/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_0038/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos.html#2</link>
+      <guid isPermaLink="false">b251d706-e8a1-482b-b087-73e453aff11b</guid>
+      <enclosure url="file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_0039/IMG_0039.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_0039/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_0039/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos.html#3</link>
+      <guid isPermaLink="false">1ab72993-ed45-4d9f-9ac7-0a065656d008</guid>
+      <enclosure url="file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_0041/IMG_0041.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_0041/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_0041/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos.html#4</link>
+      <guid isPermaLink="false">d79e6e86-e216-4c73-b825-c1c308fe8749</guid>
+      <enclosure url="file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_1339/IMG_1339.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_1339/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/patrickbereau/Desktop/yane_web/Yane_test/Photos_files/Media/IMG_1339/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
